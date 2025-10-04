@@ -1,0 +1,20 @@
+• when openin
+• file invalid Python
+• otherwise unchanged so it
+•  SyntaxError. 
+• What I changed
+• the backticks and added UTF-8
+• ython
+• I removed
+• pyperclip
+• I am the boy
+• Swaroop is a bad boy
+• Is he coming?
+
+• Design and implement a 2-bit up synchronous (happening at the same time) counter using JK flip-flop
+
+• Thank you
+
+• root.mainloop()
+• bg='#f0f0f0', padx=10, pady=10)
+
